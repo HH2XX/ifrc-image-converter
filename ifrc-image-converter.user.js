@@ -9,7 +9,8 @@
 // @description:zh-TW 在網頁圖片上按右鍵，可轉換為 PNG、JPG、WebP、AVIF 或 BMP 後下載，支援品質調整與圖片預覽。
 // @match        *://*/*
 // @grant        GM_xmlhttpRequest
-// @connect      *
+// @connect      https://github.com/HH2XX/ifrc-image-converter
+// @supportURL   https://github.com/HH2XX/ifrc-image-converter/issues
 // @run-at       document-end
 // ==/UserScript==
 
